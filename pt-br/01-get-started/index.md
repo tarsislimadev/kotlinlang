@@ -11,3 +11,15 @@ fun main() {
   println("Hello, world!")
 }
 ```
+
+In this Kotlin code:
+
+`fun` is used to declare a function
+
+The `main()` function is where your program starts from
+
+The body of a function is written within curly braces `{}`
+
+`println()` and `print()` functions print their arguments to standard output
+
+
