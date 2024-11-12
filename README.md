@@ -1,6 +1,6 @@
-# [Kotlin](https://kotlinlang.org/docs/home.html)
+# [kotlin](https://kotlinlang.org/docs/home.html)
 
-## Classes
+## classes
 
 [00. Get started with Kotlin](./pt-br/00-get-started/index.md)
 
@@ -11,6 +11,10 @@
 [03. Basic types](./pt-br/03-basic-types/index.md)
 
 [04. Augmented assignments](./pt-br/04-augmented-assignments/index.md)
+
+## source
+
+[Kotlin documentation](https://kotlinlang.org/docs/getting-started.html)
 
 ## license
 
