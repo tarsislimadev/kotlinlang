@@ -6,6 +6,8 @@
 
 [01. Variables](./pt-br/01-variables/index.md)
 
+[02. String templates](./pt-br/02-string-templates/index.md)
+
 ## license
 
 [MIT](./LICENSE)
