@@ -12,16 +12,16 @@ Use the assignment operator `=` to assign a value.
 
 ```kotlin
 fun main () {
-	val popcorn = 5
+    val popcorn = 5
     println("There are " + popcorn + " boxes of popcorn")
     
-	val hotdog = 7
+    val hotdog = 7
     println("There are " + hotdog + " hotdogs")
 
     var customers = 10
-	println("There are " + customers + " customers in the queue")
+    println("There are " + customers + " customers in the queue")
 
-	customers = 8
-	println("Now, there are " + customers + " customers in the queue")
+    customers = 8
+    println("Now, there are " + customers + " customers in the queue")
 }
 ```
