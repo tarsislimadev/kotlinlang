@@ -1,5 +1,7 @@
 # [kotlin](https://kotlinlang.org/docs/home.html)
 
+A Kotlin's course to begginers
+
 ## classes
 
 [00. Get started with Kotlin](./pt-br/00-get-started/index.md)
