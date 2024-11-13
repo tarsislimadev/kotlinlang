@@ -20,7 +20,9 @@ fun main() {
 }
 ```
 
-In this Kotlin code, `customers` is assigned an integer value by "type inference".
+In this Kotlin code:
+
+`customers` is assigned an integer value by "type inference".
 
 ## links
 
