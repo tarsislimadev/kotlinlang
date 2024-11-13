@@ -4,8 +4,6 @@ In Kotlin, each variable and data structure has a type.
 
 Kotlin's ability to "infer" the type is called "type inference".
 
-In example, `customers` is assigned an integer value by "type inference".
-
 ```kotlin
 fun main() {
     var customers = 10
@@ -21,3 +19,5 @@ fun main() {
     println(customers) // 10
 }
 ```
+
+In this Kotlin code, `customers` is assigned an integer value by "type inference".
