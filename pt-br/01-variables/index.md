@@ -25,3 +25,7 @@ fun main () {
     println("Now, there are " + customers + " customers in the queue")
 }
 ```
+
+## links
+
+[previous](#) - [next](#)
