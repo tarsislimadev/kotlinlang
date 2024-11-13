@@ -22,4 +22,6 @@ The body of a function is written within curly braces `{}`
 
 `println()` and `print()` functions print their arguments to standard output
 
+## links
 
+[previous](#) - [next](#)
