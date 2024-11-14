@@ -1,1 +1,1 @@
-/workspace/kotlinlang/kotlinc/bin/kotlinc "/workspace/kotlinlang/src/app/Main.kt" -include-runtime -d "/workspace/kotlinlang/src/app/Main.jar"
+${kotlinpath}/bin/kotlinc "${kotlinsrc}/Main.kt" -include-runtime -d "${kotlinsrc}/Main.jar"
